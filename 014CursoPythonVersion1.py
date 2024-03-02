@@ -1,7 +1,7 @@
 """
 Jesus Alejandro Montes Aguila 21310118
 19 febrero 2024
-Practica 42-
+Practica 42-47
 """
 print("menu".title())
 while True:
